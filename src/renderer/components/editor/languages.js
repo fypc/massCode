@@ -88,6 +88,10 @@ export default [
     value: 'json'
   },
   {
+    label: 'Julia',
+    value: 'julia'
+  },
+  {
     label: 'Kotlin',
     value: 'kotlin'
   },
